@@ -16,9 +16,10 @@ Cleans raw Bank IFSC dataset in **Jupyter Notebook**
 Git/GitHub
 ## 🚀 How to Run
 
+
  Clone the repository:
 ```bash
-git clone https://github.com/your-username/Bank-IFSC-Project.git
+git clone https://github.com/Aliya Mohammadi/Bank-IFSC-Project.git
 cd Bank-IFSC-Project
 
 Install dependencies:
