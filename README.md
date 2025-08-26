@@ -16,22 +16,22 @@ Cleans raw Bank IFSC dataset in **Jupyter Notebook**
 Git/GitHub
 ## 🚀 How to Run
 
-### 1. Clone the repository:
+ Clone the repository:
 ```bash
 git clone https://github.com/your-username/Bank-IFSC-Project.git
 cd Bank-IFSC-Project
 
-2. Install dependencies:
+Install dependencies:
 bash
 Copy code
 pip install pandas numpy openpyxl jupyter
 
-3. Open and run the Jupyter Notebook:
+Open and run the Jupyter Notebook:
 bash
 Copy code
 jupyter notebook IFSC_Data_Cleaning.ipynb
 
-4. Output:
+Output:
 Combined_IFSC1.xlsx – Raw combined data from multiple sheets
 
 cleaned_bankifsc_data.csv – Final cleaned dataset
