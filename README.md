@@ -18,7 +18,8 @@ Git/GitHub
 
 
  Clone the repository:
-git clone https://github.com/AliyaMohammadi2001/Bank-IFSC-Project.git cd Bank-IFSC-Project
+ git clone https://github.com/AliyaMohammadi2001/BANK.git
+
 
 
 Install dependencies:
